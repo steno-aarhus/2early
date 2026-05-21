@@ -2,13 +2,13 @@ project:
   type: sdca-theme
 
 website:
-  title: "EOT2D"
-  site-url: "https://steno-aarhus.github.io/eot2d/"
-  repo-url: "https://github.com/steno-aarhus/eot2d"
+  title: "2Early"
+  site-url: "https://steno-aarhus.github.io/2early/"
+  repo-url: "https://github.com/steno-aarhus/2early"
   navbar:
     tools:
       - icon: github
-        href: "https://github.com/steno-aarhus/eot2d"
+        href: "https://github.com/steno-aarhus/2early"
 
 format:
   sdca-theme-html:
