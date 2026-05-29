@@ -4,9 +4,7 @@ title: "Template landing page"
 subtitle: "A template for websites in the Steno Aarhus GitHub organisation"
 ---
 
-All text below this is meant as examples of elements you can add to your
-website. You should delete this text and replace it with your own text,
-images, etc.
+her skal stå noget andet 
 
 ## Image example
 
