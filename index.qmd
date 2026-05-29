@@ -13,7 +13,7 @@ execute:
 ![](rmlogo.PNG){fig-align="center"}
 
 ::: {style="text-align: center"}
-**Projektejer**\
-**Annelli Sandbæk**\
-**Steno Diabetes Center Aarhus**\
+**Testmanualer og informationer**\
+**Jonas Munk Jensen**\
+**Steno Diabetes Center Aarhus**
 :::
