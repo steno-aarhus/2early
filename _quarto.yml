@@ -12,7 +12,7 @@ website:
     right: "Denne hjemmeside er lavet i [Quarto](https://quarto.org/)."
 
   navbar:
-    background: light
+    background: beige
     logo: logo.png
     logo-alt: Steno Diabetes Center Aarhus
     title: false
