@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Template landing page",
     "section": "",
-    "text": "her skal stå noget andet"
+    "text": "project: type: website\nwebsite: title: “LIVING forskningsprojekt” site-url: “https://steno-aarhus.github.io/2early/” repo-url: “https://steno-aarhus.github.io/2early/” page-navigation: true search: true\npage-footer: right: “Denne hjemmeside er lavet i Quarto.”\nnavbar: background: light logo: logo.png logo-alt: Steno Diabetes Center Aarhus title: false tools: - icon: github href: https://steno-aarhus.github.io/2early/ text: “2early” collapse-below: lg left: - text: “Forside” href: index.qmd - text: “WP1” href: 1-WP1.qmd - text: “WP2” href: 2-WP2.qmd - text: “WP3” href: 3-WP3.qmd - text: “WP4” href: 4-WP4.qmd - text: “For patienter” href: 5-for patienter.qmd\nher skal stå noget andet"
   },
   {
     "objectID": "index.html#image-example",
