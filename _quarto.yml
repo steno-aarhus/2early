@@ -1,22 +1,44 @@
 project:
-  type: sdca-theme
+  type: website
 
 website:
-  title: "2Early"
+  title: "2early"
   site-url: "https://steno-aarhus.github.io/2early/"
-  repo-url: "https://github.com/steno-aarhus/2early"
+  repo-url: "https://steno-aarhus.github.io/2early/"
+  page-navigation: true
+  search: true
+
+  page-footer:
+    right: "Denne hjemmeside er lavet i [Quarto](https://quarto.org/)."
+
   navbar:
+    background: light
+    logo: logo.png
+    logo-alt: Steno Diabetes Center Aarhus
+    title: false
     tools:
       - icon: github
-        href: "https://github.com/steno-aarhus/2early"
+        href: https://steno-aarhus.github.io/2early/
+        text: "2early"
+    collapse-below: lg
+    left:
+      - text: "Forside"
+        href: index.qmd
+      - text: "WP1"
+        href: 1-WP1.qmd
+      - text: "WP2"
+        href: 2-WP2.qmd
+      - text: "WP3"
+        href: 3-WP3.qmd
+      - text: "WP4"
+        href: 4-WP4.qmd
+      - text: "For patienter"
+        href: 5-for patienter.qmd
 
 format:
-  sdca-theme-html:
+  html:
     theme:
-      - brand
-      - custom-styles.scss
-
-editor: 
-  markdown:
-    wrap: 72
-    canonical: true
+      light: [cosmo, theme.scss]
+    code-copy: true
+    code-overflow: wrap
+    toc: true
