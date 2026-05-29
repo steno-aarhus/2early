@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "2early"
+  title: "Projekt 2EARLY"
   site-url: "https://steno-aarhus.github.io/2early/"
   repo-url: "https://steno-aarhus.github.io/2early/"
   page-navigation: true
@@ -22,6 +22,7 @@ website:
         text: "2early"
     collapse-below: lg
     left:
+     left:
       - text: "Forside"
         href: index.qmd
       - text: "WP1"
@@ -42,3 +43,7 @@ format:
     code-copy: true
     code-overflow: wrap
     toc: true
+
+
+
+
