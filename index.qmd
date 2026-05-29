@@ -10,6 +10,10 @@ execute:
 # Forside {.unnumbered .unlisted}
 :::
 
+# Velkommen
+
+Denne hjemmeside samler information om e
+
 ![](rmlogo.PNG){fig-align="center"}
 
 ::: {style="text-align: center"}
