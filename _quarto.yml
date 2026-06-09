@@ -27,9 +27,9 @@ website:
     - text: "WP5"
       href: 5-wp5.qmd 
     - text: "Kontakt"
-      href: 5-kontakt.qmd
+      href: 6-kontakt.qmd
     - text: "For patienter"
-      href: 5-forpatienter.qmd
+      href: 7-forpatienter.qmd
       
     tools:
       - icon: github
