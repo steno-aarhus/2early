@@ -1,23 +1,15 @@
 ---
-format: 
-  html: default
-  pdf: default
-execute: 
-  echo: false
+title-block-banner: true
+toc: false
+title: "2EARLY"
 ---
 
-::: {.content-hidden when-format="html"}
-# Forside {.unnumbered .unlisted}
-:::
 
-# Velkommen
+## Projekt 2EARLY 
+Indsæt tekst og evt. et billede 
 
-Denne hjemmeside samler information om e
+## Andre forslag til overskrifter 
+Indsæt tekst 
 
-![](rmlogo.PNG){fig-align="center"}
 
-::: {style="text-align: center"}
-**Testmanualer og informationer**\
-**Jonas Munk Jensen**\
-**Steno Diabetes Center Aarhus**
-:::
+![](/images/midtlogo.png){fig-alt="regionmidt logo"}
