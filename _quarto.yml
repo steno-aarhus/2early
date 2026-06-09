@@ -6,7 +6,6 @@ website:
   site-url: "https://steno-aarhus.github.io/2early/"
   repo-url: "https://steno-aarhus.github.io/2early/"
   page-navigation: true
-  search: true
 
   # TODO: Remove announcement when website is ready
   announcement: 
