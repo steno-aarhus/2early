@@ -33,8 +33,7 @@ website:
       
     tools:
       - icon: github
-        href: https://steno-aarhus.github.io/2early/
-        text: "2early"
+        href: "https://github.com/steno-aarhus/2early"
         aria-label: "GitHub icon: Source repository"
 
 format:
