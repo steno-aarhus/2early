@@ -17,6 +17,6 @@ Indsæt tekst og evt. et billede
 
 *WP4: INNOVATION* 
 
-*WP5: Sundhedsøkonomi*
+*WP5: SUNDHEDSØKONOMI*
 
 ![](/images/midtlogo.png){fig-alt="regionmidt logo"}
