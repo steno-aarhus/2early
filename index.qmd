@@ -10,9 +10,13 @@ Indsæt tekst og evt. et billede
 
 ## Arbejdspakker
 *WP1: EPI* 
+
 *WP2: PROFILE/CHARACTERIZE*
+
 *WP3: OFFSPRING/REPRODUCTIVE*
+
 *WP4: INNOVATION* 
 
+*WP5: Sundhedsøkonomi*
 
 ![](/images/midtlogo.png){fig-alt="regionmidt logo"}
