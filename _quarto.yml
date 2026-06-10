@@ -5,8 +5,7 @@ website:
   title: "**2EARLY**"
   site-url: "https://steno-aarhus.github.io/2early/"
   repo-url: "https://steno-aarhus.github.io/2early/"
-  page-navigation: true
- 
+  page-navigation: true 
 
   # TODO: Remove announcement when website is ready
   announcement: 
@@ -33,8 +32,7 @@ website:
       
     tools:
       - icon: github
-        href: https://steno-aarhus.github.io/2early/
-        text: "2early"
+        href: "https://github.com/steno-aarhus/2early"
         aria-label: "GitHub icon: Source repository"
 
 format:
