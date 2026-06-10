@@ -1,8 +1,8 @@
 ---
-title: Sundhedsøkonomi 
+title: Sundhedsøkonomi
 subtitle: 2EARLY - WP5
 toc: false
 ---
 
 ## Indsæt overskrift
-*Indsæt tekst* 
+*Indsæt tekst*
