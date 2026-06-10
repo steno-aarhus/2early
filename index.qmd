@@ -8,8 +8,11 @@ title: "2EARLY"
 ## Projekt 2EARLY 
 Indsæt tekst og evt. et billede 
 
-## Andre forslag til overskrifter 
-Indsæt tekst 
+## Arbejdspakker
+*WP1: EPI* 
+*WP2: PROFILE/CHARACTERIZE*
+*WP3: OFFSPRING/REPRODUCTIVE*
+*WP4: INNOVATION* 
 
 
 ![](/images/midtlogo.png){fig-alt="regionmidt logo"}
