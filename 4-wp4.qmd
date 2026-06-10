@@ -1,6 +1,6 @@
 ---
 title: INNOVATION 
-subtitle: 2EARLY - WP4
+subtitle: *2EARLY - WP4*
 toc: false
 ---
 
