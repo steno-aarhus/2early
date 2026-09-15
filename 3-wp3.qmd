@@ -5,3 +5,16 @@ toc: false
 
 ## Indsæt overskrift
 *Indsæt tekst* 
+
+## Kontakt 
+**Ulla Kampmann Opstrup**
+
+Overlæge 
+
+Steno Diabetes Center Aarhus
+
+📧 ullaopst@rm.dk
+
+::: text-center
+![Ulla Kampmann Opstrup](/images/ulla_kampmann.webp){fig-alt="Image of Ulla Kampmann" .profile-picture}
+:::
