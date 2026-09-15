@@ -3,5 +3,13 @@ title: "WP1: Epidemiologi"
 toc: false
 ---
 
-## Indsæt overskrift
-*Indsæt tekst* 
+## Epidemiologiske studier 
+Denne arbejdspakke skaber det videnskabelige grundlag for at forstå, i hvilken grad og på hvilke områder yngre personer med type 2-diabetes er dårligere stillet end ældre.
+Ved at undersøge behandling, sundhedssøgende adfærd og risikoadfærd kan vi dokumentere, om personer med tidligt opstået diabetes kan opdages tidligere og modtage hurtigere og mere intensiv behandling.
+Kortlægning af health literacy og egenomsorgsevner vil danne fundamentet for at udvikle målrettede indsatser. 
+
+## Kontakt arbejdspakkelederen 
+
+Anette Andersen 
+Forsker og overlæge 
+Mail: anette.andersen@rm.dk
