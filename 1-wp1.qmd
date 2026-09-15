@@ -8,8 +8,16 @@ Denne arbejdspakke skaber det videnskabelige grundlag for at forstå, i hvilken 
 Ved at undersøge behandling, sundhedssøgende adfærd og risikoadfærd kan vi dokumentere, om personer med tidligt opstået diabetes kan opdages tidligere og modtage hurtigere og mere intensiv behandling.
 Kortlægning af health literacy og egenomsorgsevner vil danne fundamentet for at udvikle målrettede indsatser. 
 
-## Kontakt arbejdspakkelederen 
+## Kontakt 
+**Anette Andersen**
 
-Anette Andersen 
-Forsker og overlæge 
-Mail: anette.andersen@rm.dk
+Overlæge 
+
+Steno Diabetes Center Aarhus
+
+📧 anette.andersen@rm.dk
+
+::: text-center
+![Julie Støy](/images/anette_andernsen.webp){fig-alt="Image of Anette Andersen" .profile-picture}
+:::
+
