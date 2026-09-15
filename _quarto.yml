@@ -17,7 +17,6 @@ website:
     right: 
     - text: "Epidemiologi"
       href: 1-wp1.qmd
-      classes: italic-menu
     - text: "Profil"
       href: 2-wp2.qmd
     - text: "Reproduktion"
