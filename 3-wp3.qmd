@@ -1,6 +1,5 @@
 ---
-title: OFFSPRING/REPRODUCTIVE 
-subtitle: 2EARLY - WP3
+title: WP3 - Reproduktion
 toc: false
 ---
 
