@@ -5,3 +5,16 @@ toc: false
 
 ## Indsæt overskrift
 *Indsæt tekst* 
+
+## Kontakt 
+**Trine Laura Overgaard Hasle**
+
+Specialkonsulent 
+
+Steno Diabetes Center Aarhus
+
+📧 TRHASL@rm.dk
+
+::: text-center
+![Trine Laura Overgaard Hasle](/images/trine_hasle.webp){fig-alt="Image of Trine Hasle" .profile-picture}
+:::
