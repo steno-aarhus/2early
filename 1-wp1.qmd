@@ -1,5 +1,5 @@
 ---
-title: "WP1: Epidemiologi"
+title: "Arbejdspakke 1: Epidemiologi"
 toc: false
 ---
 
