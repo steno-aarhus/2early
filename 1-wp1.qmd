@@ -18,6 +18,6 @@ Steno Diabetes Center Aarhus
 📧 anette.andersen@rm.dk
 
 ::: text-center
-![Julie Støy](/images/anette_andernsen.webp){fig-alt="Image of Anette Andersen" .profile-picture}
+![Julie Støy](/images/Anette_Andersen.webp){fig-alt="Image of Anette Andersen" .profile-picture}
 :::
 
