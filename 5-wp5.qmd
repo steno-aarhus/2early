@@ -3,8 +3,7 @@ title: "Arbejdspakke 5: Sundhedsøkonomi"
 toc: false
 ---
 
-## Indsæt overskrift
-*Indsæt tekst*
+*Indsæt tekst om arbejdspakken*
 
 ## Kontakt 
 **Eskild Klausen Fredslund**
