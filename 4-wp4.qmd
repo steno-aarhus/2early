@@ -3,8 +3,7 @@ title: "Arbejdspakke 4: Innovation"
 toc: false
 ---
 
-## Indsæt overskrift
-*Indsæt tekst* 
+Denne arbejdspakke ønsker at skabe en differentieret indsats for yngre voksne med type 2-diabetes. Dette skal muliggøres ved at skabe en indsigt i, hvordan hverdagen ser ud for målgruppen, og identificere behov og udfordringer i livet med diabetes. Denne viden danner grundlag for at udvikle og teste nye, innovative løsninger sammen med patienter, sundhedssystemet og civilsamfundet — løsninger, der er bæredygtige og kan forbedre livskvaliteten for personer med tidsligt opstået type 2-diabetes.
 
 ## Kontakt 
 **Trine Laura Overgaard Hasle**
