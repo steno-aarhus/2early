@@ -1,6 +1,5 @@
 ---
-title: EPI 
-subtitle: 2EARLY - WP1
+title: WP1: EPIDEMIOLOGI
 toc: false
 ---
 
