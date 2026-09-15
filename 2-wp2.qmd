@@ -3,8 +3,9 @@ title: "Arbejdspakke 2: Profil"
 toc: false
 ---
 
-## Indsæt overskrift
-*Indsæt tekst* 
+Denne arbejdspakke adresserer et centralt behov: at sikre korrekt diagnose på det rette tidspunkt for yngre voksne med type 2-diabetes.
+Ved at kombinere genetiske, immunologiske og kliniske data skabes grundlag for bedre diagnostiske værktøjer og algoritmer, som kan implementeres i rutinepraksis.
+Dette skal føre til tidligere, sikrere og mere effektiv behandling — både i Danmark og internationalt.
 
 ## Kontakt 
 **Julie Støy**
