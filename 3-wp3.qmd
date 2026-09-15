@@ -3,8 +3,7 @@ title: "Arbejdspakke 3: Reproduktion"
 toc: false
 ---
 
-## Indsæt overskrift
-*Indsæt tekst* 
+Denne arbejdspakke undersøger sammenhængen mellem prægestationel type 2-dibates og graviditet, herunder mekanismerne bag insulinresistens, langtidskonsekvenser af graviditeter kompliceret af type-2 diabetes og kvinders oplevelser af at håndtere graviditet og diabetes samtidig. Arbejdspakken skaber ny viden, som kan styrke klinisk praksis og støtte kvinderne og deres børn gennem livet.
 
 ## Kontakt 
 **Ulla Kampmann Opstrup**
