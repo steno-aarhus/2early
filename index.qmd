@@ -4,8 +4,7 @@ toc: false
 title: "2EARLY"
 ---
 
-
-Indsæt tekst og evt. et billede 
+![](images/2early billede.png){fig-alt="Illustration af projektets arbejdspakker"}
 
 # Velkommen
 
