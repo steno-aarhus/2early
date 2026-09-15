@@ -1,6 +1,5 @@
 ---
-title: INNOVATION 
-subtitle: 2EARLY - WP4
+title: "Arbejdspakke 4: Innovation"
 toc: false
 ---
 
