@@ -1,6 +1,5 @@
 ---
-title: Sundhedsøkonomi
-subtitle: 2EARLY - WP5
+title: "Arbejdspakke 5: Sundhedsøkonomi"
 toc: false
 ---
 
