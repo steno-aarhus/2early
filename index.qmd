@@ -8,15 +8,11 @@ title: "2EARLY"
 ## Projekt 2EARLY 
 Indsæt tekst og evt. et billede 
 
-## Arbejdspakker
-*WP1: EPI* 
+# Velkommen
 
-*WP2: PROFILE/CHARACTERIZE*
+Denne hjemmeside samler information om projekt 2Early. Projektet består af 5 arbejdspakker, som arebjder ind i projetket samlet formål. 
+Projektet skal styrke forståelsen af tidligt opstået type 2-diabetes og bidrage til bedre forebyggelse, diagnostik og behandling. Gennem tværfaglig forskning undersøger vi de faktorer, der påvirker sygdomsbyrde og komplikationer, med det mål at forbedre livskvaliteten for mennesker med EoT2D.
 
-*WP3: OFFSPRING/REPRODUCTIVE*
 
-*WP4: INNOVATION* 
-
-*WP5: SUNDHEDSØKONOMI*
 
 ![](/images/midtlogo.png){fig-alt="regionmidt logo"}
