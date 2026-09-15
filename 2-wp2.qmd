@@ -1,5 +1,5 @@
 ---
-title: PROFILE/CHARACTERIZE 
+title: PROFILE
 subtitle: 2EARLY - WP2
 toc: false
 ---
