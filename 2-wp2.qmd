@@ -1,6 +1,5 @@
 ---
-title: PROFILE
-subtitle: 2EARLY - WP2
+title: "Arbejdspakke 2: Profil"
 toc: false
 ---
 
