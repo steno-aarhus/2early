@@ -15,15 +15,15 @@ website:
 
   navbar:
     right: 
-    - text: "WP1"
+    - text: "Epidemiologi"
       href: 1-wp1.qmd
-    - text: "WP2"
+    - text: "Profil"
       href: 2-wp2.qmd
-    - text: "WP3"
+    - text: "Reproduktion"
       href: 3-wp3.qmd
-    - text: "WP4"
+    - text: "Innovation"
       href: 4-wp4.qmd 
-    - text: "WP5"
+    - text: "Sundhedsøkonomi"
       href: 5-wp5.qmd 
     - text: "Kontakt"
       href: 6-kontakt.qmd
