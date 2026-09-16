@@ -17,15 +17,15 @@ website:
     right: 
     - text: "*Epidemiologi*"
       href: 1-wp1.qmd
-    - text: "Profil"
+    - text: "*Profil*"
       href: 2-wp2.qmd
-    - text: "Reproduktion"
+    - text: "*Reproduktion*"
       href: 3-wp3.qmd
-    - text: "Innovation"
+    - text: "*Innovation*"
       href: 4-wp4.qmd 
-    - text: "Sundhedsøkonomi"
+    - text: "*Sundhedsøkonomi*"
       href: 5-wp5.qmd 
-    - text: "Kontakt"
+    - text: "**Kontakt**"
       href: 6-kontakt.qmd
     - text: "For patienter"
       href: 7-forpatienter.qmd
