@@ -15,7 +15,7 @@ website:
 
   navbar:
     right: 
-    - text: "Epidemiologi"
+    - text: "*Epidemiologi*"
       href: 1-wp1.qmd
     - text: "Profil"
       href: 2-wp2.qmd
