@@ -3,51 +3,12 @@ title: "Kontakt projektmedarbejdere"
 toc: false
 ---
 
-**2Early projektejer**
+WP1 Epidemiologi
+Anette Andersen
 
-*Annelli Sandbæk* 📧 anesnd@rm.dk
+anette.andersen@rm.dk
 
+WP2 Profil
+Julie Støy
 
-**Arbejdspakke 1 Epidemiologi**
-
-*Anette Andersen* 📧 anette.andersen@rm.dk
-
-
-**Arbejdspakke 2 Profil**
-
-*Julie Støy* 📧 julistoe@rm.dk
-
-
-**Arbejdspakke 3 Reproduktion**
-
-*Ulla Kampmann Opstrup* 📧 ullaopst@rm.dk
-
-
-**Arbejdspakke 4 Innovation**
-
-*Trine Laura Overgaard Hasle* 📧 trhasl@rm.dk
-
-
-**Arbejdspakke 5 Sundhedsøkonomi**
-
-*Eskild Klausen Fredslund* 📧 eskfre@rm.dk
-
-::: {.contact-card}
-### <i class="fas fa-chart-line"></i> WP1 Epidemiologi
- 
-**Anette Andersen**
-✉ anette.andersen@rm.dk
-:::
-
-::: {.contact-card}
-### <i class="fas fa-dna"></i> WP2 Profil
- 
-**Julie Støy**
-✉ julistoe@rm.dk
-:::
-
-::: {.contact-card}
-### <i class="fas fa-baby"></i> WP3 Reproduktion
-**Ulla Kampmann Opstrup**
-✉ ullaopst@rm.dk
-:::
+julistoe@rm.dk
