@@ -7,6 +7,21 @@ Denne arbejdspakke skaber det videnskabelige grundlag for at forstå, i hvilken 
 Ved at undersøge komorbiditet, behandling, sundhedssøgende adfærd, social ulighed, trivsel og risikoadfærd kan vi dokumentere, om personer med tidligt opstået diabetes kan opdages tidligere og modtage hurtigere og mere intensiv behandling. Kortlægning af health literacy og egenomsorgsevner vil danne fundamentet for at udvikle målrettede indsatser. 
 
 ## Kontakt 
+
+::: {layout-ncol="2"}
+-   Anette Andersen
+-   Overlæge
+-   📧 anette.andersen@rm.dk
+
+![](images/Anette_Andersen.webp){.profile-picture}
+:::
+
+
+
+
+
+
+
 **Anette Andersen**
 
 Overlæge 
