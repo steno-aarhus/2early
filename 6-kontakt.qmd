@@ -31,3 +31,23 @@ toc: false
 **Arbejdspakke 5 Sundhedsøkonomi**
 
 *Eskild Klausen Fredslund* 📧 eskfre@rm.dk
+
+::: {.contact-card}
+### <i class="fas fa-chart-line"></i> WP1 Epidemiologi
+ 
+**Anette Andersen**
+✉ anette.andersen@rm.dk
+:::
+
+::: {.contact-card}
+### <i class="fas fa-dna"></i> WP2 Profil
+ 
+**Julie Støy**
+✉ julistoe@rm.dk
+:::
+
+::: {.contact-card}
+### <i class="fas fa-baby"></i> WP3 Reproduktion
+**Ulla Kampmann Opstrup**
+✉ ullaopst@rm.dk
+:::
