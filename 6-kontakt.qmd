@@ -5,15 +5,22 @@ toc: false
 
 
 ### Projektejer 
-Vil du gerne vide mere om projektet eller har du input kan du kontakte **projektejer Annelli Sandbæk** på anesnd.rm.dk. 
+Vil du gerne vide mere om projektet eller har du input kan du kontakte **projektejer**
+::: {layout-ncol="2"}
+-   Annelli Sandbæk
+-   📧 anesnd@rm.dk
 
-Eller find konkrete projektmedarbejdere nedenfor: 
+![](images/annelli-sandbak.jpg){.profile-picture}
+:::
+
+
+*Eller find konkrete projektmedarbejdere nedenfor:*
 
 ### Epidemilogi 
 
 ::: {layout-ncol="2"}
 -   Anette Andersen 
--   Mail: anette.andersen@rm.dk
+-   📧 anette.andersen@rm.dk
 
 ![](images/Anette_Andersen.webp){.profile-picture}
 :::
@@ -22,16 +29,34 @@ Eller find konkrete projektmedarbejdere nedenfor:
 
 ::: {layout-ncol="2"}
 -   Julie Støy 
--   Mail: julistoe@rm.dk
+-   📧 julistoe@rm.dk
 
-![](images/julie_stoy_2.wepp){.profile-picture}
+![](images/julie_stoy_2.webp){.profile-picture}
 :::
 
 ### Reproduktion
 
 ::: {layout-ncol="2"}
 -   Ulla Kampmann Opstrup
--   Mail: ullaopst@rm.dk
+-   📧 ullaopst@rm.dk
 
 ![](images/ulla_kampmann.webp){.profile-picture}
+:::
+
+### Innovation 
+
+::: {layout-ncol="2"}
+-  Trine Laura Overgaard Hasle
+-  📧 trhasl@rm.dk
+
+![](images/trine_hasle.webp){.profile-picture}
+:::
+
+### Sundhedsøkonomi 
+
+::: {layout-ncol="2"}
+-  Eskild Klausen Fredslund
+-  📧 eskfre@rm.dk
+
+![](images/eskild_fredslund.webp){.profile-picture}
 :::
