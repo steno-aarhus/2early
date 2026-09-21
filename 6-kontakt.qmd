@@ -3,12 +3,31 @@ title: "Kontakt projektmedarbejdere"
 toc: false
 ---
 
-WP1 Epidemiologi
-Anette Andersen
+## Kontakt
 
-anette.andersen@rm.dk
+### Epidemilogi 
 
-WP2 Profil
-Julie Støy
+::: {layout-ncol="2"}
+-   Anette Andersen 
+-   Mail: anette.andersen@rm.dk
 
-julistoe@rm.dk
+![](images/Anette_Andersen.webp){.profile-picture}
+:::
+
+### Profil
+
+::: {layout-ncol="2"}
+-   Julie Støy 
+-   Mail: julistoe@rm.dk
+
+![](images/julie_stoy_2.wepp){.profile-picture}
+:::
+
+### Reproduktion
+
+::: {layout-ncol="2"}
+-   Ulla Kampmann Opstrup
+-   Mail: ullaopst@rm.dk
+
+![](images/ulla_kampmann.webp){.profile-picture}
+:::
