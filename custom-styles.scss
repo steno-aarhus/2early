@@ -3,3 +3,44 @@
 // See the link below for an overview of the available variables
 // and how to customize them.
 // https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+
+.contact-grid {
+display: grid;
+grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+gap: 25px;
+margin-top: 2rem;
+}
+
+ 
+.contact-card {
+background: white;
+border-radius: 15px;
+padding: 25px;
+text-align: center;
+box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+border-top: 5px solid #A50043;
+} 
+
+.contact-card h3 {
+margin-top: 10px;
+margin-bottom: 10px;
+color: #A50043;
+}
+ 
+
+.contact-card img.symbol {
+height: 60px;
+margin-bottom: 10px;
+}
+ 
+.contact-card img.person {
+width: 120px;
+height: 120px;
+object-fit: cover;
+border-radius: 50%;
+margin-bottom: 15px;
+}
+
+.contact-card a {
+text-decoration: none;
+}
