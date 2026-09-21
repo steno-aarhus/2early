@@ -27,8 +27,6 @@ website:
       href: 5-wp5.qmd 
     - text: "**Kontakt**"
       href: 6-kontakt.qmd
-    - text: "**Ekstra kontakt**"
-      href: 8-ekstra kontakt.qmd 
     - text: "**For patienter**"
       href: 7-forpatienter.qmd
       
