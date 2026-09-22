@@ -9,8 +9,9 @@ Denne arbejdspakke ønsker at skabe en differentieret indsats for yngre voksne m
 
 ::: {layout-ncol="2"}
 -   Trine Laura Overgaard Hasle 
--   Specialkonsulent, Steno Diabetes Center Aarhus 
--   📧trhasl@rm.dk
+-   Specialkonsulent
+-   Steno Diabetes Center Aarhus 
+-   📧 **trhasl@rm.dk**
 
 ![](images/trine_hasle.webp){.profile-picture}
 :::
