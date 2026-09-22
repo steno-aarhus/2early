@@ -19,8 +19,8 @@ Læs mere om kohortestudiet og undersøgelsen her (*indsæt link til github side
 
 ::: {layout-ncol="2"}
 -   Julie Støy
--   Steno Diabetes Center Aarhus 
 -   Overlæge
+-   Steno Diabetes Center Aarhus 
 -   📧 **julistoe@rm.dk**
 
 ![](images/julie_stoy_2.webp){.profile-picture}
