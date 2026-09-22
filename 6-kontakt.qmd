@@ -5,7 +5,7 @@ toc: false
 
 
 ### Projektejer 
-Vil du gerne vide mere om projektet eller har du input kan du kontakte **projektejer**
+Vil du gerne vide mere om projektet eller har du input kan du kontakte projektejer
 
 ::: {layout-ncol="2"}
 -   Annelli Sandbæk
