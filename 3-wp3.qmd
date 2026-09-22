@@ -10,8 +10,9 @@ Der er flere studier i arbejdspakken, herunder et klinisk studie, der undersøge
 
 ::: {layout-ncol="2"}
 -   Ulla Kampmann Opstrup
--   Overlæge, Steno Diabetes Center Aarhus 
--   📧 ullaopst@rm.dk
+-   Overlæge
+-   Steno Diabetes Center Aarhus 
+-   📧 **ullaopst@rm.dk**
 
 ![](images/ulla_kampmann.webp){.profile-picture}
 :::
