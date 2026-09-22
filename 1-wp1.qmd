@@ -11,7 +11,8 @@ Ved at undersøge komorbiditet, behandling, sundhedssøgende adfærd, social uli
 ::: {layout-ncol="2"}
 -   Anette Andersen
 -   Overlæge
--   📧 anette.andersen@rm.dk
+-   Steno Diabetes Center Aarhus 
+-   📧 **anette.andersen@rm.dk**
 
 ![](images/Anette_Andersen.webp){.profile-picture}
 :::
