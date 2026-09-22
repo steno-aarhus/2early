@@ -6,14 +6,12 @@ toc: false
 Denne arbejdspakke ønsker at skabe en differentieret indsats for yngre voksne med type 2-diabetes. Dette skal muliggøres ved at skabe en indsigt i, hvordan hverdagen ser ud for målgruppen, og identificere behov og udfordringer i livet med diabetes. Denne viden danner grundlag for at udvikle og teste nye, innovative løsninger sammen med patienter, sundhedssystemet og civilsamfundet — løsninger, der er bæredygtige og kan forbedre livskvaliteten for personer med tidsligt opstået type 2-diabetes.
 
 ## Kontakt 
-**Trine Laura Overgaard Hasle**
 
-Specialkonsulent 
+::: {layout-ncol="2"}
+-   Trine Laura Overgaard Hasle 
+-   Specialkonsulent, Steno Diabetes Center Aarhus 
+-   📧trhasl@rm.dk
 
-Steno Diabetes Center Aarhus
-
-📧 TRHASL@rm.dk
-
-::: text-center
-![Trine Laura Overgaard Hasle](/images/trine_hasle.webp){fig-alt="Image of Trine Hasle" .profile-picture}
+![](images/trine_hasle.webp){.profile-picture}
 :::
+
