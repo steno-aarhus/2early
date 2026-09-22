@@ -9,8 +9,9 @@ toc: false
 
 ::: {layout-ncol="2"}
 -   Eskild Klausen Fredslund
--   Seniorspecialist, Steno Diabetes Center Aarhus
--   📧 eskfre@rm.dk
+-   Seniorspecialist
+-   Steno Diabetes Center Aarhus
+-   📧 **eskfre@rm.dk**
 
 ![](images/eskild_fredslund.webp){.profile-picture}
 :::
