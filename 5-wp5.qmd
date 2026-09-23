@@ -3,7 +3,13 @@ title: "Arbejdspakke 5: Sundhedsøkonomi"
 toc: false
 ---
 
-*Indsæt tekst om arbejdspakken*
+De sundhedsøkonomiske perspektiver af 2Early vil blive belyst udfra flere perspektiver. 
+
+For det første vil der blive udført to **cost of illness studier** med fokus på hhv. omkostninger omkring diagnosetidspunktet, samt ud fra et livstidsperspektiv.
+Begge studier vil sammenligne omkostninger ved tidligt opstået diabetes med diabetes udviklet i en senere del af livet og borgere uden diabetes.  
+
+Endelig vil der blive udført en **sundhedsøkonomisk evaluering** af en af de nyudviklede indsatser. Dette sikrer ikke blot klinisk effekt, men mest sundhed for pengene.  
+
 
 ## Kontakt 
 
