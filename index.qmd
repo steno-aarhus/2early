@@ -1,12 +1,10 @@
 ---
 title-block-banner: true
 toc: false
-title: "2EARLY"
 ---
 ![](images/2early billede.png){fig-alt="Illustration af projektets arbejdspakker" fig-align="center"}
 
 # Velkommen
-
 Denne hjemmeside samler information om projekt **2EARLY**. 
 
 Projektet består af **5 arbejdspakker**, som arbejder ind i projektets samlede formål om at styrke forståelsen af tidligt opstået type 2-diabetes og bidrage til bedre forebyggelse, diagnostik og behandling. 
