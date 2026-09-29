@@ -4,9 +4,13 @@ toc: false
 ---
 
 Denne arbejdspakke undersøger betydningen af at have T2DM under en graviditet. 
-Der er flere studier i arbejdspakken, herunder et klinisk studie, der undersøger mekanismerne bag insulinresistens i graviditeten, flere epidemiologiske studier, der undersøger de sundhedsmæssige konsekvenserne af en graviditet kompliceret af type-2 diabetes både for mor og barn samt et kvalitativt studie, der undersøger kvinders oplevelser af at være gravid med T2DM. Arbejdspakken skaber ny viden, som kan styrke klinisk praksis og støtte kvinderne og deres børn gennem livet.
+Der er flere studier i arbejdspakken, herunder et klinisk studie, der undersøger mekanismerne bag insulinresistens i graviditeten, flere epidemiologiske studier, der undersøger de sundhedsmæssige konsekvenserne af en graviditet kompliceret af type-2 diabetes både for mor og barn. Arbejdspakken skaber ny viden, som kan styrke klinisk praksis og støtte kvinderne og deres børn gennem livet.
 
-## Kontakt 
+Arbjedspakken indeholder også et antropologisk studie, der undersøger, hvordan danske kvinder oplever og håndterer det at være gravide og have type 2 diabetes, samt hvordan kvinderne rådgives og vejledes af medicinere, fødselslæger og diætister på Aarhus Universitetshospital. Undersøgelsen foregår med brug af interview og deltagerobservation. 
+
+
+
+## Kontakt arbejdspakkeleder 
 
 ::: {layout-ncol="2"}
 -   Ulla Kampmann Opstrup
@@ -17,3 +21,13 @@ Der er flere studier i arbejdspakken, herunder et klinisk studie, der undersøge
 ![](images/ulla_kampmann.webp){.profile-picture}
 :::
 
+## Kontakt kvalitativ forsker 
+
+::: {layout-ncol="2"}
+-   Julie Høgsgaard Andersen
+-   Antropolog, ph.d.
+-   Steno Diabetes Center Aarhus 
+-   📧 **julane@rm.dk**
+
+![](images/ulla_kampmann.webp){.profile-picture}
+:::
