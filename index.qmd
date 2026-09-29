@@ -2,7 +2,7 @@
 title-block-banner: true
 toc: false
 ---
-![](images/2early billede.png){fig-alt="Illustration af projektets arbejdspakker" fig-align="center"}
+![](images/2Early_vers2.png){fig-alt="Illustration af projektets arbejdspakker" fig-align="center"}
 
 # Velkommen
 Denne hjemmeside samler information om projekt **2EARLY**. 
