@@ -15,6 +15,7 @@ Endelig vil der blive udført en sundhedsøkonomisk evaluering af en af de nyudv
 
 ::: {layout-ncol="2"}
 -   Eskild Klausen Fredslund
+-   Arbejdspakkeleder 
 -   Seniorspecialist
 -   Steno Diabetes Center Aarhus
 -   📧 **eskfre@rm.dk**
