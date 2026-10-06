@@ -6,7 +6,7 @@ toc: false
 Denne arbejdspakke skaber det videnskabelige grundlag for at forstå, i hvilken grad og på hvilke områder yngre personer med type 2-diabetes er dårligere stillet end ældre. 
 Ved at undersøge komorbiditet, behandling, sundhedssøgende adfærd, social ulighed, trivsel og risikoadfærd kan vi dokumentere, om personer med tidligt opstået diabetes kan opdages tidligere og modtage hurtigere og mere intensiv behandling. Kortlægning af health literacy og egenomsorgsevner vil danne fundamentet for at udvikle målrettede indsatser. 
 
-## Kontakt 
+## Kontakt arbejdspakkeleder
 
 ::: {layout-ncol="2"}
 -   Anette Andersen
@@ -17,7 +17,16 @@ Ved at undersøge komorbiditet, behandling, sundhedssøgende adfærd, social uli
 ![](images/Anette_Andersen.webp){.profile-picture}
 :::
 
+## Kontakt arbejdspakkemedarbejder (husk at ændre billede)
 
+::: {layout-ncol="2"}
+-   Bente Kjær
+-   Stilling? 
+-   Steno Diabetes Center Aarhus 
+-   📧 **BEKANE@rm.dk**
+
+![](images/Anette_Andersen.webp){.profile-picture}
+:::
 
 
 
