@@ -18,6 +18,12 @@ Ved hjælp af registerbaserede data undersøges konsekvenserne af tidlig type 2-
 
 Udførende forsker: **Sine Knorr**, titel 📧 **sine.knorr@clin.au.dk**
 
+*Projekt titel?*
+Der er begrænset viden om betydningen af tidlig debut af type 2-diabetes for kvinders langsigtede helbred og for sundhedsvæsenet, særligt i relation til graviditet og graviditetskomplikationer. Kvinder med tidligt debuteret type 2-diabetes kan opleve en større samlet byrde af diabetesrelaterede og andre kroniske sygdomme, hvilket potentielt kan føre til øget multimorbiditet og større brug af sundhedsydelser.
+Ved hjælp af data fra DiGMA-databasen sammenlignes forekomsten af multimorbiditet og anvendelsen af sundhedsydelser mellem kvinder med type 2-diabetes, som har gennemgået en graviditet, og kvinder med normoglykæmisk graviditet, samt mellem kvinder med type 2-diabetes med og uden graviditetskomplikationer.
+Studiet vil bidrage med viden om den langsigtede sygdomsbyrde og de sundhedsrelaterede behov forbundet med type 2-diabetes hos kvinder i den reproduktive alder og kan være med til at informere klinisk praksis og planlægning i sundhedsvæsenet.
+
+Udførende forsker: **Elpida Vounzoulaki**, titel 📧 **evn@ph.au.dk**
 
 ## Kontakt arbejdspakkeleder 
 
