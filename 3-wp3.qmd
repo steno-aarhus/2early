@@ -25,6 +25,15 @@ Studiet vil bidrage med viden om den langsigtede sygdomsbyrde og de sundhedsrela
 
 **Udførende forsker:** Elpida Vounzoulaki, titel 📧 evn@ph.au.dk
 
+**Projektets titel?** 
+Det overordnede formål med projektet er at forbedre forståelsen af, hvordan moderens metaboliske sundhed under graviditeten påvirker graviditetsforløb og udfald hos afkommet samt at belyse de underliggende biologiske mekanismer.
+
+Projektet kombinerer landsdækkende registerdata med longitudinelle kliniske og biokemiske vurderinger for at undersøge konsekvenserne af og mekanismerne bag maternel metabolisk dysfunktion. Ved hjælp af data fra DiGMA-databasen karakteriseres sygelighed og dødelighed blandt børn eksponeret for maternel type 2-diabetes, samtidig med at longitudinelle hormonelle og inflammatoriske profiler undersøges på tværs af metaboliske fænotyper hos gravide kvinder, fra normalvægtige og overvægtige kvinder uden sygdom til kvinder med graviditetsdiabetes eller type 2-diabetes.
+
+Samlet vil disse komplementære tilgange bidrage med både populationsbaseret og mekanistisk viden om betydningen af moderens metaboliske sundhed med henblik på at identificere mekanismer bag ugunstige udfald samt understøtte fremtidige strategier for forebyggelse og risikostratificering blandt gravide kvinder med type 2-diabetes.
+
+**Udførende forsker:** Laura ??, titel?? 📧 mail??
+
 ## Kontakt arbejdspakkeleder 
 
 ::: {layout-ncol="2"}
