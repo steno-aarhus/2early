@@ -14,9 +14,9 @@ Deltagerne skal på ét fremmøde have lavet en række undersøgelser, som alt s
 
 Læs mere om kohortestudiet og undersøgelsen her (*indsæt link til github side*) 
 
-*Indsæt et billede af, hvad undersøgelsen indebærer* 
+*Indsæt evt. et billede af, hvad undersøgelsen indebærer* 
 
-*Lav evt. en kort video, der beskriver projeketet til almen praksis eller som beksriver undersøgelsen til patienterne* 
+*Indsæt evt. en kort video, der beskriver projeketet til almen praksis eller som beksriver undersøgelsen til patienterne* 
 
 ## Kontakt 
 
@@ -25,6 +25,17 @@ Læs mere om kohortestudiet og undersøgelsen her (*indsæt link til github side
 -   Overlæge
 -   Steno Diabetes Center Aarhus 
 -   📧 **julistoe@rm.dk**
+
+![](images/julie_stoy_2.webp){.profile-picture}
+:::
+
+## Kontakt arbejdspakkemedarbejder (husk at ændre billede)
+
+::: {layout-ncol="2"}
+-   Bente Kjær
+-   Stilling? 
+-   Steno Diabetes Center Aarhus 
+-   📧 **bekane@rm.dk**
 
 ![](images/julie_stoy_2.webp){.profile-picture}
 :::
