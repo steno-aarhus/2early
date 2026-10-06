@@ -5,7 +5,7 @@ toc: false
 
 Denne arbejdspakke skal udvikle og afprøve differentierede indsatser for yngre voksne med type 2-diabetes med afsæt i deres hverdagsliv, behov og møde med sundhedsvæsenet. Med en systemisk tilgang og gennem co-creation med borgere, kommuner, almen praksis, hospital og civilsamfund udvikles og testes innovative og bæredygtige løsninger. Målet er både at støtte den enkelte borger ved at styrke egenmestring, trivsel og livskvalitet og at skabe systemiske forandringer gennem nye måder at organisere og levere differentieret støtte på, som kan implementeres og skaleres
 
-## Kontakt 
+## Kontakt arbejdspakkeleder
 
 ::: {layout-ncol="2"}
 -   Trine Laura Overgaard Hasle 
