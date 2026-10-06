@@ -45,13 +45,3 @@ Samlet vil disse komplementære tilgange bidrage med både populationsbaseret og
 ![](images/ulla_kampmann.webp){.profile-picture}
 :::
 
-## Kontakt kvalitativ forsker 
-
-::: {layout-ncol="2"}
--   Julie Høgsgaard Andersen
--   Antropolog, ph.d.
--   Steno Diabetes Center Aarhus 
--   📧 **julane@rm.dk**
-
-![](images/julie_andersen.webp){.profile-picture}
-:::
