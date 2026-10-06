@@ -18,7 +18,7 @@ Læs mere om kohortestudiet og undersøgelsen her (*indsæt link til github side
 
 *Indsæt evt. en kort video, der beskriver projeketet til almen praksis eller som beksriver undersøgelsen til patienterne* 
 
-## Kontakt 
+## Kontakt arbejdspakkeleder
 
 ::: {layout-ncol="2"}
 -   Julie Støy
