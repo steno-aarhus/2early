@@ -29,14 +29,14 @@ Læs mere om kohortestudiet og undersøgelsen her (*indsæt link til github side
 ![](images/julie_stoy_2.webp){.profile-picture}
 :::
 
-## Kontakt arbejdspakkemedarbejder (husk at ændre billede)
+## Kontakt arbejdspakkemedarbejder
 
 ::: {layout-ncol="2"}
 -   Bente Kjær
--   Stilling? 
+-   Læge, Ph.d.
 -   Steno Diabetes Center Aarhus 
 -   📧 **bekane@rm.dk**
 
-![](images/julie_stoy_2.webp){.profile-picture}
+![](images/bente.png){.profile-picture}
 :::
 
