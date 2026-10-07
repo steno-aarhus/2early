@@ -17,15 +17,15 @@ Ved at undersøge komorbiditet, behandling, sundhedssøgende adfærd, social uli
 ![](images/Anette_Andersen.webp){.profile-picture}
 :::
 
-## Kontakt arbejdspakkemedarbejder (husk at ændre billede)
+## Kontakt arbejdspakkemedarbejder
 
 ::: {layout-ncol="2"}
 -   Bente Kjær
--   Stilling? 
+-   Læge, ph.d.
 -   Steno Diabetes Center Aarhus 
 -   📧 **BEKANE@rm.dk**
 
-![](images/Anette_Andersen.webp){.profile-picture}
+![](images/bente.png){.profile-picture}
 :::
 
 
