@@ -6,6 +6,52 @@ toc: false
 Denne arbejdspakke skaber det videnskabelige grundlag for at forstå, i hvilken grad og på hvilke områder yngre personer med type 2-diabetes er dårligere stillet end ældre. 
 Ved at undersøge komorbiditet, behandling, sundhedssøgende adfærd, social ulighed, trivsel og risikoadfærd kan vi dokumentere, om personer med tidligt opstået diabetes kan opdages tidligere og modtage hurtigere og mere intensiv behandling. Kortlægning af health literacy og egenomsorgsevner vil danne fundamentet for at udvikle målrettede indsatser. 
 
+## Læs mere om arbejdspakkens forskningsstudier
+
+<details>
+
+<summary>**Mangler en titel på studiet der må være offentligt**</summary>
+
+Mangler beskrivelse af studie  
+
+**Udførende forsker:** Bente Kjær, Læge, ph.d. 📧 bekane@rm.dk
+
+</details>
+
+<details>
+
+<summary>**Mangler en titel på studiet der må være offentligt**</summary>
+
+Mangler kort beskrivelse af studie  
+
+**Udførende forsker:** Bente Kjær, Læge, ph.d. 📧 bekane@rm.dk
+
+</details>
+
+<details>
+
+<summary>**Mangler en titel på studiet der må være offentligt**</summary>
+
+Mangler kort beskrivelse af studie  
+
+**Udførende forskere:** 
+-   Anette Andersen, Overlæge, ph.d. 📧 anette.andersen@rm.dk
+-   Bente Kjær, Læge, ph.d. 📧 bekane@rm.dk
+-   Fernando Valentim Bitencourt, Tandlæge, ph.d. 📧 FEVALE@rm.dk
+
+</details>
+
+<details>
+
+<summary>**Mangler en titel på studiet der må være offentligt**</summary>
+
+Mangler kort beskrivelse af studie  
+
+**Udførende forsker:** Anette Andersen, Overlæge, ph.d. 📧 anette.andersen@rm.dk
+
+</details>
+
+
 ## Kontakt arbejdspakkeleder
 
 ::: {layout-ncol="2"}
