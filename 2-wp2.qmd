@@ -7,7 +7,10 @@ Denne arbejdspakke adresserer et centralt behov: at sikre korrekt diagnose på d
 Ved at kombinere genetiske, immunologiske og kliniske data skabes grundlag for bedre diagnostiske værktøjer og algoritmer, som kan implementeres i rutinepraksis.
 Dette skal føre til tidligere, sikrere og mere effektiv behandling — både i Danmark og internationalt.
 
-**Kender du en der har fået type 2 diabetes før 40 års alderen, inden for de sidste 5 år?**
+
+## Kender du en der har fået type 2 diabetes før 40 års alderen, inden for de sidste 5 år?
+
+*Indsæt evt. fold ud knapper, der beskriver helbredsundersøgelsen for samarbejdspartnere* 
 
 I 2027 laver vi i et stort kohortestudie der omfatter 500 personer med tidligt opstået type 2 diabetes. 
 Deltagerne skal på ét fremmøde have lavet en række undersøgelser, som alt sammen skal gøre os klogere på, hvordan vi bedre kan behandle patienter med tidligt opstået type 2 diabetes. 
@@ -16,7 +19,6 @@ Læs mere om kohortestudiet og undersøgelsen her (*indsæt link til github side
 
 *Indsæt evt. et billede af, hvad undersøgelsen indebærer* 
 
-*Indsæt evt. en kort video, der beskriver projeketet til almen praksis eller som beksriver undersøgelsen til patienterne* 
 
 ## Kontakt arbejdspakkeleder
 
