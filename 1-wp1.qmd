@@ -37,7 +37,7 @@ Mangler kort beskrivelse af studie
 **Udførende forskere:** 
 -   Anette Andersen, Overlæge, ph.d. 📧 anette.andersen@rm.dk
 -   Bente Kjær, Læge, ph.d. 📧 bekane@rm.dk
--   Fernando Valentim Bitencourt, Tandlæge, ph.d. 📧 FEVALE@rm.dk
+-   Fernando Valentim Bitencourt, Tandlæge, ph.d. 📧 FEVALE@rm.dk 
 
 </details>
 
@@ -62,19 +62,6 @@ Mangler kort beskrivelse af studie
 
 ![](images/Anette_Andersen.webp){.profile-picture}
 :::
-
-## Kontakt arbejdspakkemedarbejder
-
-::: {layout-ncol="2"}
--   Bente Kjær
--   Læge, ph.d.
--   Steno Diabetes Center Aarhus 
--   📧 **BEKANE@rm.dk**
-
-![](images/bente.png){.profile-picture}
-:::
-
-
 
 
 
