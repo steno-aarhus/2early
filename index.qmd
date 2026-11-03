@@ -7,11 +7,22 @@ toc: false
 # Velkommen
 Denne hjemmeside samler information om projekt **2EARLY** til samarbejdspartnere. 
 
-Projektet består af **5 arbejdspakker**, som arbejder ind i projektets samlede formål om at styrke forståelsen af tidligt opstået type 2-diabetes og bidrage til bedre forebyggelse, diagnostik og behandling. 
+<details>
 
+<summary>**Hvad er formålet med projektet**</summary>
+*her mangler noget tekst*
 Gennem tværfaglig forskning undersøger vi de faktorer, der påvirker sygdomsbyrde og komplikationer, med det mål at forbedre livskvaliteten for mennesker med tidligt opstået type 2-diabetes.
 
+</details>
+
+<details>
+
+<summary>**Arbejdspakker**</summary>
+Projektet består af **5 arbejdspakker**, som arbejder ind i projektets samlede formål om at styrke forståelsen af tidligt opstået type 2-diabetes og bidrage til bedre forebyggelse, diagnostik og behandling. 
 **Klik på fanerne øverst på denne side, for at læse mere om hver arbejdspakke og projektets kontaktpersoner.**
+
+</details>
+
 
 
 ![](/images/midtlogo.png){fig-alt="regionmidt logo"}
