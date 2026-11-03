@@ -7,7 +7,7 @@ Denne arbejdspakke genererer forskningsbaseret viden om hverdagslivet med tidlig
 
 Målet er både at støtte den enkelte borger og at skabe systemiske forandringer gennem nye måder at organisere og levere differentieret støtte på.
 
-# Samarbejdspartnere
+## Samarbejdspartnere
 Udviklingen af relevante og bæredygtige indsatser kræver et tæt samarbejde med de aktører, der møder og støtter mennesker med tidlig type 2-diabetes i deres hverdag. Derfor samarbejder vi på tværs af sektorer og fagligheder for at bringe forskellige perspektiver, erfaringer og kompetencer i spil.
 
 <details>
@@ -40,7 +40,7 @@ Samarbejdet med almen praksis skal bidrage med viden om borgernes behov, møde m
 
 </details>
 
-# Forskning 
+## Forskning 
 
 Gennem forskning undersøger vi menneskers hverdagsliv med tidlig type 2-diabetes samt de organisatoriske og systemiske forhold, der har betydning for, hvordan behandling og støtte udvikles, afprøves og forankres i praksis.
 
@@ -54,7 +54,7 @@ Dette antropologiske projekt undersøger, hvordan mennesker med tidlig type 2-di
 
 </details>
 
-# Innovation 
+## Innovation 
 
 Vi arbejder med en systemisk og samskabende tilgang til innovation. Det betyder, at vi ikke på forhånd har besluttet, hvilke løsninger der skal udvikles. I stedet tager vi udgangspunkt i målgruppens behov og inddrager de relevante aktører i udviklingen af nye løsninger.
 
@@ -85,7 +85,7 @@ De mest relevante idéer videreudvikles til konkrete prototyper, som afprøves i
 De løsninger, der viser sig at være relevante og brugbare, implementeres hos en eller flere aktører eller direkte hos borgerne i målgruppen. Vi evaluerer løsningerne med fokus på, om de kan fungere i praksis, og hvilken værdi de skaber.
 </details>
 
-# Formidling og status
+## Formidling og status
 Her formidler vi løbende nyheder, indsigter og status fra arbejdet i arbejdspakke 4. 
 
 ## Kontakt arbejdspakkeleder
