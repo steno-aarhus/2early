@@ -99,3 +99,32 @@ Her formidler vi løbende nyheder, indsigter og status fra arbejdet i arbejdspak
 ![](images/trine_hasle.webp){.profile-picture}
 :::
 
+## Kontakt 
+
+::: {layout-ncol="2"}
+-   Julie Højsgaard Andersen
+-   Antropolog, ph.d.
+-   Steno Diabetes Center Aarhus 
+-   📧 **julane@rm.dk**
+
+![](images/julie_andersen.webp){.profile-picture}
+:::
+
+
+::: {layout-ncol="2"}
+-   Sofie Riber
+-   AC-fuldmægtig
+-   Steno Diabetes Center Aarhus 
+-   📧 **sofalb@rm.dk**
+
+![](images/sofie_riber.jpg){.profile-picture}
+:::
+
+::: {layout-ncol="2"}
+-   Marie Ørts Rahbæk
+-   Forskningsassistent
+-   Steno Diabetes Center Aarhus 
+-   📧 **marie.rahbaek@rm.dk**
+
+![](images/marie_ørts.webp){.profile-picture}
+:::
