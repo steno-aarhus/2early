@@ -10,4 +10,17 @@ toc: false
 
 Så vil vi meget gerne have dig til at deltage i vores forskningsprojekt. 
 
-Læs mere her (her indsættes et link til den anden github side for patienter) 
+Læs mere her:[Patientinformation om projekt 2EARLY](https://steno-aarhus.github.io/2early-patientinfo/){.btn
+.btn-primary role="button"}
+
+
+
+::: text-center
+**Vil du gerne læse mere om Steno Diabetes Center Aarhus, så læs mere her:**
+:::
+
+
+::: text-center
+[Steno Diabetes Center Aarhus](https://www.stenoaarhus.dk/){.btn
+.btn-primary role="button"}
+:::
