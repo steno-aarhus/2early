@@ -10,9 +10,14 @@ toc: false
 
 Så vil vi meget gerne have dig til at deltage i vores forskningsprojekt. 
 
-Læs mere her:[Patientinformation om projekt 2EARLY](https://steno-aarhus.github.io/2early-patientinfo/){.btn
-.btn-primary role="button"}
+::: text-center
+**Læs mere her:**
+:::
 
+::: text-center
+[Patientinformation om projekt 2EARLY](https://steno-aarhus.github.io/2early-patientinfo/){.btn
+.btn-primary role="button"}
+::: 
 
 
 ::: text-center
