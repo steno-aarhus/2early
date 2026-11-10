@@ -15,7 +15,7 @@ Så vil vi meget gerne have dig til at deltage i vores forskningsprojekt.
 :::
 
 ::: text-center
-[Patientinformation om projekt 2EARLY](https://steno-aarhus.github.io/2early-patientinfo/){.btn
+[Patientinformation om projekt 2EARLY](LINK INDSÆTTES HER){.btn
 .btn-primary role="button"}
 ::: 
 
