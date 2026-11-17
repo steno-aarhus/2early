@@ -3,21 +3,22 @@ title: "Arbejdspakke 2: Profil"
 toc: false
 ---
 
-Denne arbejdspakke adresserer et centralt behov: at sikre korrekt diagnose på det rette tidspunkt for yngre voksne med type 2-diabetes.
-Ved at kombinere genetiske, immunologiske og kliniske data skabes grundlag for bedre diagnostiske værktøjer og algoritmer, som kan implementeres i rutinepraksis.
-Dette skal føre til tidligere, sikrere og mere effektiv behandling — både i Danmark og internationalt.
+Denne arbejdspakke går i dybden og laver en omfattende karakteristik af målgruppen for at forstå sygdomsmønstre, risikofaktorer og komplikationer hos unge der får type 2 diabetes.
+Ved at kombinere kliniske undersøgelser, tandlægeundersøgelse, immunologiske, metaboliske og genetiske data skabes viden der kan danne grundlag for bedre diagnostiske værktøjer samt kvalificere behandling og opsporing af type 2 diabetes tidligt i livet. 
+Dette skal føre til tidligere, sikrere og mere effektiv behandling – både i Danmark og internationalt. 
+
 
 
 ## Vi skal skabe ny viden. Derfor samler vi en kohorte på 500 personer 
 
-*Indsæt evt. fold ud knapper, der beskriver helbredsundersøgelsen for samarbejdspartnere* 
-
 I 2027 laver vi i et stort kohortestudie der omfatter 500 personer med tidligt opstået type 2 diabetes. 
 Deltagerne skal på ét fremmøde have lavet en række undersøgelser, som alt sammen skal gøre os klogere på, hvordan vi bedre kan behandle patienter med tidligt opstået type 2 diabetes. 
 
-Læs mere om kohortestudiet og undersøgelsen her (*indsæt link til github side*) 
+*Indsæt evt. fold ud knapper, der beskriver helbredsundersøgelsen for samarbejdspartnere* 
 
-*Indsæt evt. et billede af, hvad undersøgelsen indebærer* 
+Læs mere om kohortestudiet og undersøgelsen her (*https://steno-aarhus.github.io/2early-patientinfo/*) 
+
+
 
 ## Formidling og status
 Her formidler vi løbende nyheder, indsigter og status fra arbejdet i arbejdspakke 2. 
